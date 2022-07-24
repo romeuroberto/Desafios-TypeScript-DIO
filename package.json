@@ -1,0 +1,17 @@
+{
+  "name": "desafios-typescript-dio",
+  "version": "1.0.0",
+  "description": "Desafios de código da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "author": "José Roberto",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.4"
+  }
+}
